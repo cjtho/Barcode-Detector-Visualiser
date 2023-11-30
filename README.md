@@ -1,7 +1,7 @@
 # Barcode Detection Project
 
 ## Overview
-This project introduces an innovative barcode detection algorithm designed to efficiently and accurately identify barcodes in images. Utilising advanced image processing techniques, the project aims to optimise performance while minimising dependency on third-party modules. Key features include the ability to detect multiple barcodes within a single image, the generation of precisely aligned bounding boxes around each detected barcode, and an educational animation that illustrates the barcode detection process. The whole process was done with only base python and matplotlib as an extra challenge.
+This project introduces a barcode detection algorithm designed to efficiently and accurately identify barcodes in images. Utilising advanced image processing techniques, the project aims to optimise performance while minimising dependency on third-party modules. Key features include the ability to detect multiple barcodes within a single image, the generation of precisely aligned bounding boxes around each detected barcode, and an educational animation that illustrates the barcode detection process. The whole process was done with only base python and matplotlib as an extra challenge.
 
 ## Main Features
 
